@@ -1,0 +1,20 @@
+{
+    "name": "Muhammadnozim Anvarbekov",
+    "short_name": "AnvarbekovDev",
+    "start_url": ".",
+    "background_color": "#222831",
+    "theme_color": "#151a35",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/My_image.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/My_image.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
